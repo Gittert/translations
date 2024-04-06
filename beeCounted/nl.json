@@ -12,19 +12,19 @@
         "TIMEZONE":{
             "TITLE":"Tijdzone",
             "BROWSER":"Browser standaard",
-            "APIARY":"Apiary Timezone"
+            "APIARY":"Standplaats Tzone"
         }
     },
     "MAP":{
         "LOADING":"Bezig met laden",
-        "ACTIVE":"Bijenstal actief melden bij {{number}} netelroos.",
+        "ACTIVE":"Actief rapporterende standplaats met {{number}} bijenkasten.",
         "LAST_UPDATE":"Laatste update",
-        "CLICK":"Klik op de ID van een Hive om uurlijkse gegevens te zien.",
-        "HIVE_ID":"Hive-ID",
+        "CLICK":"Klik op de ID van een kast om uurlijkse gegevens te zien.",
+        "HIVE_ID":"Kast-ID",
         "UPPER":"Bovenste",
-        "LOWER":"Lager",
+        "LOWER":"Onderste",
         "SCALE":"Schaal",
-        "NONE":"Momenteel geen netelroos gevonden in deze bijenstal."
+        "NONE":"Momenteel geen bijenkasten gevonden bij deze standplaats."
     },
     "HIVE_SUMMARY":{
         "ENTITLEMENTS":"Ondersteuning voor deze grafiek geleverd door:",
@@ -34,15 +34,15 @@
             "YEAR":"Afgelopen jaar",
             "YEARS":"Laatste {{number}} jaar"
         },
-        "HIVE_TEMPERATURE":"Bijenkorftemperatuur",
-        "HIVE_HUMIDITY":"Bijenkorfvochtigheid",
-        "HIVE_WEIGHT":"Bijenkorfgewichten",
+        "HIVE_TEMPERATURE":"Bijenkasttemperatuur",
+        "HIVE_HUMIDITY":"Bijenkastvochtigheid",
+        "HIVE_WEIGHT":"Bijenkastgewichten",
         "OUTSIDE_TEMPERATURE":"Buiten",
         "OUTSIDE_HUMIDITY":"Buiten",
         "BROOD_ZONE":"Broedzone",
         "NORMAL":"normaal",
         "TEMPERATURE_IN":"Temperatuur in {{units}}",
         "WEIGHT_IN":"Gewicht in {{units}}",
-        "HUMIDITY_IN":"Vochtigheid %"
+        "HUMIDITY_IN":"Luchtvochtigheid %"
     }
 }
